@@ -27,7 +27,7 @@ PacketCrafter is a versatile and intuitive payload generator for various reverse
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/PacketCrafter.git
+   git clone https://github.com/nirmal-92/PacketCrafter.git
    cd PacketCrafter
    ```
 
